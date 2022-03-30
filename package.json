@@ -1,0 +1,23 @@
+{
+  "name": "rockpaperscissorstwo",
+  "version": "1.0.0",
+  "description": "Rock Paper Scissors, Two!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vacuousVersifer/RockPaperScissorsTwo.git"
+  },
+  "keywords": [
+    "rps",
+    "discord.js"
+  ],
+  "author": "vacuousVersifer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vacuousVersifer/RockPaperScissorsTwo/issues"
+  },
+  "homepage": "https://github.com/vacuousVersifer/RockPaperScissorsTwo#readme"
+}
